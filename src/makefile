@@ -1,5 +1,5 @@
 #nome do projeto
-PROJETO = l9e1
+PROJETO = progr
 
 #arquivos .c
 ARQUIVOS_CPP = $(wildcard *.cpp)
